@@ -1,8 +1,8 @@
-package ÕÂ½Ú¼ì²â;
+package ç« èŠ‚æ£€æµ‹;
 
 public class Homework2 {
 public static void main(String[]args){
-	//Ð´³öÊä³ö½á¹û
+	//å†™å‡ºè¾“å‡ºç»“æžœ
 
 	String foo="blue";
 	boolean[]bar=new boolean[2];
