@@ -1,7 +1,7 @@
-package Ñ­»·¿ØÖÆ;
+package  å¾ªçŽ¯æŽ§åˆ¶;
 
 public class DoWhileExercise01 {
-	 //¼ÆËã 1¡ª100 µÄºÍ
+	 //ç¼–å†™ä¸€ä¸ª main æ–¹æ³•
      public static void main(String[]args){
     	 int i=1;
     	 int sum=0;
